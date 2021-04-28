@@ -33,5 +33,33 @@ Databases</a></li>
 Time Series Aggregation at Twitter</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Stream-Processing-Papers/blob/master/s(17).pdf" style="text-decoration:none;">DryadLINQ: A System for General-Purpose Distributed Data-Parallel Computing Using a High-Level Language</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Stream-Processing-Papers/blob/master/s(18).pdf" style="text-decoration:none;">Real-Time Stream Processing in Social Networks with RAM3S</a></li> 
+
   
+<li><a target="_blank" href="https://github.com/manjunath5496/Stream-Processing-Papers/blob/master/s(19).pdf" style="text-decoration:none;">A review on Big Data real-time stream processing and its scheduling techniques</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Stream-Processing-Papers/blob/master/s(20).pdf" style="text-decoration:none;">Tutorial: Data Streaming and its Application to Stream Processing</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Stream-Processing-Papers/blob/master/s(21).pdf" style="text-decoration:none;">Scalable Distributed Stream Processing</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Stream-Processing-Papers/blob/master/s(22).pdf" style="text-decoration:none;">Automata-based Stream Processing</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Stream-Processing-Papers/blob/master/s(23).pdf" style="text-decoration:none;">Lambda Architecture for Batch and Stream Processing</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Stream-Processing-Papers/blob/master/s(24).pdf" style="text-decoration:none;">Toward High Performance
+Distributed Stream Processing via Approximate Fault Tolerance</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Stream-Processing-Papers/blob/master/s(25).pdf" style="text-decoration:none;">A New Architecture for Real Time Data Stream Processing</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Stream-Processing-Papers/blob/master/s(26).pdf" style="text-decoration:none;">Load Balancing Techniques for Distributed Stream Processing Applications in Overlay Environments</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Stream-Processing-Papers/blob/master/s(27).pdf" style="text-decoration:none;">High-Availability Algorithms for Distributed Stream Processing</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Stream-Processing-Papers/blob/master/s(28).pdf" style="text-decoration:none;">A Survey on the Evolution of Stream Processing Systems</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Stream-Processing-Papers/blob/master/s(29).pdf" style="text-decoration:none;">Turbine: Facebook's Service Management Platform for Stream Processing </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Stream-Processing-Papers/blob/master/s(30).pdf" style="text-decoration:none;">A Self-adaptive Classifier for Efficient Text-stream Processing</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Stream-Processing-Papers/blob/master/s(31).pdf" style="text-decoration:none;">Scalable Storage Support for Data Stream Processing</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Stream-Processing-Papers/blob/master/s(32).pdf" style="text-decoration:none;">Dhalion: SelfRegulating
+Stream Processing in Heron</a></li> 
 </ul>
